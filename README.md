@@ -1,23 +1,9 @@
 ### Hi there 👋
 
-🇫🇷 21y, Student.
+🇫🇷 21y, Student in Web dev.
 Based in Bordeaux, France.
 South West Coast 😎
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmgr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmgr&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**ValMgr/ValMgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValMgr&layout=compact&theme=dracula&exclude_repo=BonicheGaming,LovelyGarden,Playthesis-Unity,Only-One,Portolio-2D-Platformer,Consequences,Only-One2D,Operation-Shutdown)](https://github.com/anuraghazra/github-readme-stats)
