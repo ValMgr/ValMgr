@@ -1,7 +1,7 @@
 
 <h3 style="text-align: center;"> Hi there 👋 </h3>
 
-<p style="text-align: center;"> 🇫🇷 22y, Student in Web dev. </p>
+<p style="text-align: center;"> 🇫🇷 22y, Web dev. </p>
 <p style="text-align: center;">Based in Bordeaux, France. </p>
 
 <p>
