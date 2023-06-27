@@ -12,6 +12,8 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
 </p>
 
+<img alt="codewars" src="https://www.codewars.com/users/ZartaK32/badges/micro" />
+
   Stats                    |       Languages
 :-------------------------:|:-------------------------:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmgr&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)                           | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValMgr&layout=compact&hide=sqf,html,css,cpp,hpp,gpp&theme=dracula&exclude_repo=rirouririrourirouroirurour,BonicheGaming,LovelyGarden,Playthesis-Unity,Only-One,Portolio-2D-Platformer,Consequences,Only-One2D,Operation-Shutdown)](https://github.com/anuraghazra/github-readme-stats)
